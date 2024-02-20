@@ -1,4 +1,4 @@
-# [Лабораторна робота №1](https://learn.ztu.edu.ua/mod/assign/view.php?id=193625)
+# [Лабораторна робота №1](https://learn.ztu.edu.ua/mod/assign/view.php?id=199394)
 
 ## Принципи програмування. DRY, KISS, SOLID, YAGNI та ін.
 
